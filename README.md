@@ -1,2 +1,2 @@
-# Cinematica_practica
-Práctica 3: Cinemática (plano inclinado)
+# Mecánica Newtoniana
+Práctica 3: Mecánica Newtoniana (plano inclinado)
